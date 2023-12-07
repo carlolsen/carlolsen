@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlolsen
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning TLS (Transport Layer Security)
+- 🌱 I’m currently learning Modern JavaScript
 - 💞️ I’m looking to collaborate on SharePoint Online
 - 📫 How to reach me carl@olsen365.net
 
